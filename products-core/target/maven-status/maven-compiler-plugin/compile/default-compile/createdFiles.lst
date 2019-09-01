@@ -1,0 +1,9 @@
+info/package-info.class
+com/centric/producs/config/UtilsConfig.class
+com/centric/products/repository/ProductsDao.class
+com/centric/producs/config/PersistenceServiceConfig.class
+com/centric/products/domain/Product.class
+com/centric/producs/config/PersistenceServiceTestConfig.class
+com/centric/products/exception/NotFoundException.class
+com/centric/products/service/ProductServiceImpl.class
+com/centric/products/service/ProductService.class

@@ -1,0 +1,10 @@
+/Users/victor/workspaces/upgradeTest/ProductsApp/products-service/src/main/java/com/centric/products/BookApplication.java
+/Users/victor/workspaces/upgradeTest/ProductsApp/products-service/src/main/java/com/centric/products/exception/ExceptionResponseEntity.java
+/Users/victor/workspaces/upgradeTest/ProductsApp/products-service/src/main/java/com/centric/products/config/JacksonMappingConfig.java
+/Users/victor/workspaces/upgradeTest/ProductsApp/products-service/src/main/java/com/centric/products/properties/ProductsProperties.java
+/Users/victor/workspaces/upgradeTest/ProductsApp/products-service/src/main/java/com/centric/products/rest/ProductController.java
+/Users/victor/workspaces/upgradeTest/ProductsApp/products-service/src/main/java/com/centric/products/config/SwaggerConfig.java
+/Users/victor/workspaces/upgradeTest/ProductsApp/products-service/src/main/java/com/centric/products/exception/NestedExceptionResponseEntity.java
+/Users/victor/workspaces/upgradeTest/ProductsApp/products-service/src/main/java/com/centric/products/config/GlobalExceptionHandler.java
+/Users/victor/workspaces/upgradeTest/ProductsApp/products-service/src/main/java/com/centric/products/rest/ProductResponseEntity.java
+/Users/victor/workspaces/upgradeTest/ProductsApp/products-service/src/main/java/com/centric/products/util/FormatUtil.java
