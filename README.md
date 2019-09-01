@@ -7,12 +7,11 @@ Into this project I configured the checkstyle  in order to keep the code clean a
 
 I also configure the swagger console to see the documentation for the API’s and have the possibility to execute the API´s as the requirements asked
 
-To run the app be sure that you are working with the java 8 version and use the executable Jar located at the root folder at the same level of the present README file with name:
+To run the app be sure that you are working with the java 8 version and use the executable Jar located at the folder at the s with name:
 
+products-service/target/products-service-0.0.1-SNAPSHOT.jar
 
-products-service-0.0.1-SNAPSHOT.jar
-
-Open your favourite console and execute it with the following command under the same path of the file:
+Open your favorite console and execute it with the following command under the same path of the file:
 
 java -jar products-service-0.0.1-SNAPSHOT.jar
 
