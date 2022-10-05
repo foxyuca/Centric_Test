@@ -26,7 +26,7 @@
 		<checkstyle.tools.version>8.1</checkstyle.tools.version>
 		<findsecbugs.version>1.6.0</findsecbugs.version>
 		<fasterxml.jackson>2.9.9</fasterxml.jackson>
-        <fasterxml.jackson.databind>2.9.9.3</fasterxml.jackson.databind>
+        <fasterxml.jackson.databind>2.12.6.1</fasterxml.jackson.databind>
 		<mavenCompilerPlugin.version>3.5.1</mavenCompilerPlugin.version>
 		<mavenCheckstylePlugin.version>2.17</mavenCheckstylePlugin.version>
 		<findbugsMavenPlugin.version>3.0.4</findbugsMavenPlugin.version>
